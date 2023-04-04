@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.simple-todos-container {
+  background-color: #ffc2a0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.simple-todos-items-container {
+  background-color: #ffffff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+}
+.heading {
+  color: #ff8542;
+  text-align: center;
+}
